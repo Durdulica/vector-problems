@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="45" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="exercitii.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9309" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="14" />
+			<Collapse line="26" />
+			<Collapse line="44" />
+			<Collapse line="69" />
+			<Collapse line="94" />
+			<Collapse line="103" />
+			<Collapse line="111" />
+			<Collapse line="121" />
+			<Collapse line="132" />
+			<Collapse line="148" />
+			<Collapse line="157" />
+			<Collapse line="166" />
+			<Collapse line="177" />
+			<Collapse line="188" />
+			<Collapse line="205" />
+			<Collapse line="214" />
+			<Collapse line="226" />
+			<Collapse line="238" />
+			<Collapse line="247" />
+			<Collapse line="257" />
+			<Collapse line="271" />
+			<Collapse line="280" />
+			<Collapse line="292" />
+			<Collapse line="301" />
+			<Collapse line="313" />
+			<Collapse line="322" />
+			<Collapse line="331" />
+			<Collapse line="348" />
+			<Collapse line="359" />
+			<Collapse line="384" />
+			<Collapse line="393" />
+		</Folding>
+	</File>
+	<File name="algoritmi.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="578" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="14" />
+			<Collapse line="29" />
+			<Collapse line="45" />
+			<Collapse line="53" />
+			<Collapse line="59" />
+			<Collapse line="85" />
+			<Collapse line="94" />
+			<Collapse line="102" />
+			<Collapse line="118" />
+			<Collapse line="126" />
+			<Collapse line="136" />
+			<Collapse line="143" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
